@@ -12,7 +12,7 @@ const lifeExperiences = [
     "🏊 Learn to swim",
     "🏫 Finish elementary school",
     "🏫 Finish middle school",
-    "⚽ Play a sport",
+    "🥊 Play a sport",
     "🛫 Fly in a plane",
     "🛥️ Ride a boat",
     "🚆 Travel in a train",
@@ -53,7 +53,7 @@ const lifeExperiences = [
     "📰 Be featured in the news",
     "🤡 Make a big career change",
     "🏠 Buy a home",
-    "🌑 See a solar eclipse",
+    "☀️ See a solar eclipse",
     "🌑 See a comet",
     "🌎 Travel the world",
     "🎭 Overcome a personal fear"      
